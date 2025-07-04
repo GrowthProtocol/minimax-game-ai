@@ -19,7 +19,7 @@ function App() {
     return (
         <div className="tic-tac-toe">
             <h1>
-                TIC-TAC-TOE
+                tic-TAC-TOEs
                 {isAiMode
                     ? ` (AI Mode - ${
                           difficulty.charAt(0).toUpperCase() +
